@@ -1,7 +1,9 @@
-# Group-Project-Sprint-3
-In this repository, we will be working through the [Kaggle Aerial Cactus Identification challenge](https://www.kaggle.com/c/aerial-cactus-identification/) from 2019. The code here, accomplishes the following data science tasks:
+# Working through the Kaggle aerial cactus image classification challenge
+In this four part series, we will be working through the [Kaggle Aerial Cactus Identification challenge](https://www.kaggle.com/c/aerial-cactus-identification/) from 2019. The series will cover the following topics:
 
-- Part 1 folder: Pre-processing and dimensionality reduction with autoencoders
-- Comparing dimensionality reduction between autoencoders and principle component analysis (PCA)
-- Model selection and implementation with convolutional neural networks (CNN)
-- Model interpretation with LIME
+- [Part 1: Pre-processing and dimensionality reduction with autoencoders](https://medium.com/@kalia_65609/part-1-pre-processing-and-dimensionality-reduction-with-autoencoders-for-image-classification-82e4d273619e?source=friends_link&sk=bb2056e76cb36ff0154260a7057dca27https://medium.com/@kalia_65609/part-1-pre-processing-and-dimensionality-reduction-with-autoencoders-for-image-classification-82e4d273619e?source=friends_link&sk=bb2056e76cb36ff0154260a7057dca27) --- The link will take you to the blogpost tutorial on this part. The code for this can be found in the Part1 folder. The notebook describes how the data was downloaded from Kaggle, the image pre-processing  techniques used, and two implementations of an autoencoder (where the second attempts to improve on the results of the first).
+- [Part 2: Comparing dimensionality reduction between autoencoders and principle component analysis (PCA)](https://medium.com/@calmscientist/part-2-comparing-dimensionality-reduction-between-autoencoders-and-principal-component-analysis-e16df9125959)
+- [Part 3: Model selection and implementation with convolutional neural networks (CNN)](https://medium.com/@darya.dyachkova/part-3-model-selection-and-implementation-with-convolutional-neural-networks-cnn-294a581b01ea)
+- [Part 4: Model interpretation with LIME and concluding remarks](https://medium.com/@soren.gran/part-4-model-interpretation-with-lime-and-concluding-remarks-fdcfa6dae667)
+
+The aim of this series is to show an example implementation of the full data science pipeline for an image classification problem.
